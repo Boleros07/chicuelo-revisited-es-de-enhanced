@@ -1,3 +1,5 @@
+This adds missing Chicuelo characters from the original set like 3DS, Xbox and Pico8.
+
 # Chicuelo (Revisited) for ES-DE
 
 This is port of the Chicuelo theme (originally by [Chicuelo](https://github.com/chicueloarcade)) from Retropie to ES-DE v2.x
